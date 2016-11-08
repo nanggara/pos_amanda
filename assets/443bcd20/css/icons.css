@@ -1,0 +1,10 @@
+@import url(famfamfam-pack.css);
+@import url(fuge1-pack.css);
+@import url(fuge2-pack.css);
+
+[class^="Icon"], [class*=" Icon"]{
+	width:16px; 
+	height:16px;
+	background-repeat:no-repeat;
+	padding: 2px 12px 5px 12px
+}
